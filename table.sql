@@ -1,4 +1,4 @@
-create table cicd.objects.test_table(
+create or replace table cicd.objects.test_table(
     name varchar,
     id int,
     place varchar,
