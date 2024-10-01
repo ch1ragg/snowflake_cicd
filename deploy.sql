@@ -1,2 +1,2 @@
-@table.sql;
-@table_2.sql;
+table.sql;
+table_2.sql;
