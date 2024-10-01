@@ -1,4 +1,4 @@
-CREATE FUNCTION simple_table_function ()
+CREATE FUNCTION or replace simple_table_function ()
   RETURNS TABLE (x INTEGER, y INTEGER)
   AS
   $$
